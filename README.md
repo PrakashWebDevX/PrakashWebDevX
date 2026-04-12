@@ -7,7 +7,7 @@
 <a href="https://github.com/PrakashWebDevX">
   <img src="https://komarev.com/ghpvc/?username=PrakashWebDevX&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
 </a>
-<a href="https://linkedin.com/in/prakashrue">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
@@ -47,9 +47,19 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 
 <br/>
 
-### 📈 Contribution Analytics
+### 📈 Real-Time Contribution Analytics
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashWebDevX&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" alt="Prakash's Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakashWebDevX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashWebDevX&theme=tokyonight&hide_border=true&background=0D1117" alt="Prakash's Streak" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
   <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
 </div>
 
