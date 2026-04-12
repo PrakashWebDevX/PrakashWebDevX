@@ -30,15 +30,9 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,python,tailwind,nodejs,threejs,vercel,git,github&perline=6" />
+  </a>
 </div>
 
 <br/>
@@ -47,6 +41,7 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 
 | Status | Project Title | Description | Tech Highlight |
 |:---:|---|---|---|
+| 👑 | [**PR TECH Agency**](https://prtech.netlify.app/) | My premium Web Design, Software Development, and AI Solutions agency, architecting digital futures for clients. | `Custom Logic`, `B2B` |
 | 🌌 | [**3D AI Hand Tracking**](https://github.com/PrakashWebDevX/3D-HAND-GRESTURE) | High-performance interactive browser universe utilizing MediaPipe CV to map real-world hands into explosive 3D particle physics! | `Three.js`, `WASM`, `Vite` |
 | 🤖 | [**RP Vision AI**](https://github.com/PrakashWebDevX/RP-Vision-AI-Text-To-Image-Generate) | Flagship Gen-AI suite allowing users to magically transform text-to-images, remove backgrounds, and upscale low-res photos for free. | `React`, `Rest APIs`, `Vercel` |
 
