@@ -25,15 +25,7 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 
 <br/>
 
-### 🏆 GitHub Milestones
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PrakashWebDevX&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Prakash Trophies" />
-  </a>
-</div>
-
-<br/>
+<!-- Trophies temporarily removed due to third-party server outage -->
 
 ### 🛠️ Technical Arsenal
 
@@ -63,12 +55,6 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 ### 📈 Contribution Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakashWebDevX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashWebDevX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <br/>
   <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
 </div>
 
