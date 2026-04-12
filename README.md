@@ -54,8 +54,7 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakashWebDevX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashWebDevX&theme=tokyonight&hide_border=true&background=0D1117" alt="Prakash's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashWebDevX&theme=tokyonight&hide_border=true&background=0D1117" alt="Prakash's Streak" width="80%" />
 </div>
 
 <div align="center">
