@@ -7,7 +7,7 @@
 <a href="https://github.com/PrakashWebDevX">
   <img src="https://komarev.com/ghpvc/?username=PrakashWebDevX&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/prakashrue/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
