@@ -42,7 +42,7 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 | Status | Project Title | Description | Tech Highlight |
 |:---:|---|---|---|
 | 👑 | [**PR TECH Agency**](https://prtech.netlify.app/) | My premium Web Design, Software Development, and AI Solutions agency, architecting digital futures for clients. | `Custom Logic`, `B2B` |
-| 🌌 | [**AI BUSINESS AGENT**]([https://github.com/PrakashWebDevX/3D-HAND-GRESTURE](https://github.com/PrakashWebDevX/AI-Business-Research-Agent-Backend)) | AI Business Research Agent An autonomous, tool-using AI agent that answers business questions by intelligently routing between an internal SQL database and live web search | `Python`, `LangChain`, `LLM`, `RAG` |
+| 🌌 | [**AI BUSINESS AGENT**]([[https://github.com/PrakashWebDevX/3D-HAND-GRESTURE](https://github.com/PrakashWebDevX/AI-Business-Research-Agent-Backend)](https://ai-business-research-agent.netlify.app/)) | AI Business Research Agent An autonomous, tool-using AI agent that answers business questions by intelligently routing between an internal SQL database and live web search | `Python`, `LangChain`, `LLM`, `RAG` |
 | 🤖 | [**RP Vision AI**](https://github.com/PrakashWebDevX/RP-Vision-AI-Text-To-Image-Generate) | Flagship Gen-AI suite allowing users to magically transform text-to-images, remove backgrounds, and upscale low-res photos for free. | `React`, `Rest APIs`, `Vercel` |
 
 <br/>
