@@ -63,7 +63,6 @@ I design and ship agentic systems that don't just generate text — they **decid
 | 🎬 | [**ReelForgeAI**](https://ai-reel-generator-navy.vercel.app) | Generates hooks, scripts, scene breakdowns, captions & hashtags for viral reels on Instagram/TikTok/YouTube. | `LLM`, `Content Gen` |
 | 🎨 | [**BrandForgeAI**](https://logo-ai-generator-two.vercel.app) | Generates full brand identities — logo prompts, slogans, palettes & typography — in one click. | `LLM`, `Branding` |
 | 🧩 | [**LeetAI Agent**](https://leetcode-automation-dashboard.vercel.app) | Autonomous agent that reads, solves, debugs & submits LeetCode problems using free local models via Ollama — no cloud, no cost. | `Ollama`, `Agentic` |
-| 📸 | **AutoEvent AI** *(in progress)* | AI-powered event content automation — turns raw event photos & videos into ready-to-post social content. | `GPT-4o`, `Gemini Vision`, `AWS S3`, `Supabase` |
 
 <br/>
 
