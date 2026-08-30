@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1254" height="1254" alt="profile-scan" src="https://github.com/user-attachments/assets/bfd8dffb-4c31-48fb-b565-a384cd82baa9" />
+<img src="https://raw.githubusercontent.com/PrakashWebDevX/PrakashWebDevX/main/assets/profile-scan.svg" width="380"/>
 
 <br/>
 
