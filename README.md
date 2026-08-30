@@ -1,95 +1,204 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Prakash%20WebDevX&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;LangChain+%7C+RAG+%7C+LLM+Orchestration;Full-Stack+Web+Developer;Building+Autonomous+Systems,+Pixel+by+Pixel" alt="Typing SVG" /></a>
-
-<a href="https://github.com/PrakashWebDevX">
-  <img src="https://komarev.com/ghpvc/?username=PrakashWebDevX&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
-</a>
-<a href="https://www.linkedin.com/in/prakashrue">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://github.com/PrakashWebDevX?tab=followers">
-  <img src="https://img.shields.io/github/followers/PrakashWebDevX?label=Follow&style=for-the-badge&logo=github&color=0e75b6" alt="Follow" />
-</a>
-
-### ⭐ If any of my work helps you, a follow or star keeps me building — thank you!
-
-</div>
-<br/>
-
-### 💼 Professional Snapshot
-I build at the intersection of **Artificial Intelligence** and **Premium Digital Interfaces** — from autonomous AI agents that reason and act, to full-stack platforms that turn a prompt into a product. My focus: **making the browser (and the backend behind it) genuinely intelligent.**
-
-- 🤖 Building autonomous **AI Agents** with LangChain, RAG pipelines, and multi-tool orchestration
-- 🚀 Scaling Next.js & React-based Generative AI platforms end-to-end
-- 🎨 Obsessed with Glassmorphism, micro-animations, and sharp UX/UI logic
-- 💡 Open to roles/collaborations pushing the limits of AI-native products
-- 🏢 Founder of [**PRTECH.AI**](https://prtech.netlify.app/) — my own web design, dev & AI Agent studio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFCC&height=260&section=header&text=PRAKASH%20WEBDEVX&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=00FFCC&desc=Architecting%20Autonomous%20AI%20Systems&descAlignY=58&descColor=ffffff&descSize=18" />
 
 <br/>
 
-### 🧠 AI Agent Focus
-
-I design and ship agentic systems that don't just generate text — they **decide, route, and act**.
-
-| Capability | What I Build |
-|---|---|
-| 🔀 **Tool-Routing Agents** | Agents that intelligently choose between internal databases, live web search, and APIs |
-| 📚 **RAG Pipelines** | Retrieval-augmented pipelines for grounded, hallucination-resistant responses |
-| ⚙️ **LLM Orchestration** | Multi-step chains coordinating GPT-4o, Gemini Vision, and Claude across real workflows |
-| 🗄️ **SQL + Vector Hybrid Search** | Agents that query structured business data and unstructured knowledge together |
-| 🔗 **Production Integrations** | Real-world auth, billing, and publishing pipelines (Supabase, Razorpay, LinkedIn/X OAuth) |
-
-<br/>
-
-### 🛠️ Technical Arsenal
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,python,tailwind,nodejs,threejs,vercel,git,github,aws,supabase&perline=8" />
-  </a>
-</div>
-<br/>
-
-### 🚀 Premium Portfolio
-
-| Status | Project Title | Description | Tech Highlight |
-|:---:|---|---|---|
-| 👑 | [**PRTECH.AI**](https://prtech.netlify.app/) | My own agency — premium web design, software development & AI Agent solutions for real clients. Founded solo, March 2026. | `Custom Logic`, `B2B`, `n8n` |
-| 🤖 | [**AI Business Research Agent**](https://github.com/PrakashWebDevX/AI-Business-Research-Agent-Backend) | An autonomous, tool-using AI agent that answers business questions by intelligently routing between an internal SQL database and live web search. | `Python`, `LangChain`, `LLM`, `RAG` |
-| 🌌 | [**RP Vision AI**](https://rp-vision-ai.vercel.app) | Flagship Gen-AI suite: text-to-image generation, background removal, and image upscaling — free for all. | `React`, `REST APIs`, `Vercel` |
-| 📈 | [**RP Vision SEO**](https://rpvisionai.netlify.app) | SEO platform to analyze, optimize, and scale website search rankings. | `React`, `SEO Engine` |
-| ✍️ | [**CaptionAI**](https://ai-caption-generator-tawny-nu.vercel.app) | Upload an image, get platform-optimized viral captions for Instagram, YouTube & LinkedIn — powered by Groq. | `Groq`, `Vision` |
-| 🎬 | [**ReelForgeAI**](https://ai-reel-generator-navy.vercel.app) | Generates hooks, scripts, scene breakdowns, captions & hashtags for viral reels on Instagram/TikTok/YouTube. | `LLM`, `Content Gen` |
-| 🎨 | [**BrandForgeAI**](https://logo-ai-generator-two.vercel.app) | Generates full brand identities — logo prompts, slogans, palettes & typography — in one click. | `LLM`, `Branding` |
-| 🧩 | [**LeetAI Agent**](https://leetcode-automation-dashboard.vercel.app) | Autonomous agent that reads, solves, debugs & submits LeetCode problems using free local models via Ollama — no cloud, no cost. | `Ollama`, `Agentic` |
-
-<br/>
-
-### 📈 Real-Time Contribution Analytics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashWebDevX&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" alt="Prakash's Activity Graph" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashWebDevX&theme=tokyonight&hide_border=true&background=0D1117" alt="Prakash's Streak" width="80%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Let's Build Something Intelligent Together
-
-<a href="https://github.com/PrakashWebDevX?tab=followers">
-  <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/prakashrue">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=00FFCC&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+Agent+Developer;%E2%9A%99%EF%B8%8F+LangChain+%7C+RAG+%7C+LLM+Orchestration;%F0%9F%9A%80+Founder+%40+PRTECH.AI;%F0%9F%92%A1+Turning+Prompts+into+Production+Systems;%F0%9F%93%8D+Coimbatore%2C+India+%E2%80%94+100%25+Remote" alt="Typing SVG" />
 </a>
 
 <br/><br/>
-<i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+
+<a href="https://github.com/PrakashWebDevX"><img src="https://komarev.com/ghpvc/?username=PrakashWebDevX&label=PROFILE%20VIEWS&color=00FFCC&style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/prakashrue"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://prtech.netlify.app/"><img src="https://img.shields.io/badge/PRTECH.AI-VISIT%20STUDIO-00FFCC?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" /></a>
+<a href="https://github.com/PrakashWebDevX?tab=followers"><img src="https://img.shields.io/github/followers/PrakashWebDevX?label=FOLLOW&style=for-the-badge&logo=github&color=00FFCC&labelColor=0D1117" /></a>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1" height="1"/>
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00FFCC" width="100%"/>
+
+## 🧬 `whoami`
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+identity:
+  name: Prakash
+  role: AI Agentic Development Intern @ Sparkout Tech Solutions Inc.
+  founder: PRTECH.AI — Web Design · Custom Software · AI Agents
+  education: B.Tech AI & Data Science, RVS Group of Institutions
+  timeline: 2024 — 2028
+  base: Coimbatore, Tamil Nadu, India 🇮🇳
+  mode: 100% Remote
+
+mission: >
+  Making the browser — and the backend behind it —
+  genuinely intelligent. Autonomous agents that
+  reason, route, and act, wrapped in interfaces
+  that feel alive.
+
+status: [🟢 Open to collabs, 🟢 Building daily]
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=300&lines=%3E+booting+agent...;%3E+loading+context...;%3E+routing+tools...;%3E+status%3A+online" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 What I Build
+
+<div align="center">
+
+| ⚡ | Capability | Description |
+|:---:|---|---|
+| 🔀 | **Tool-Routing Agents** | Intelligently choose between internal databases, live web search, and APIs |
+| 📚 | **RAG Pipelines** | URL → chunk → embed → Supabase pgvector, hallucination-resistant retrieval |
+| ⚙️ | **LLM Orchestration** | Multi-step chains coordinating GPT-4o, Gemini Vision, Groq/Llama 3.3, Claude |
+| 🗄️ | **Hybrid Search** | Agents querying structured SQL + unstructured vector knowledge together |
+| 🔗 | **Production Integrations** | Real auth, billing, publishing — Supabase, Razorpay, LinkedIn/X OAuth |
+
+</div>
+
+<br/>
+
+## 🛠️ Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,python,tailwind,nodejs,fastapi,threejs,vercel,git,github,aws,supabase&perline=8&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/GPT--4o-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=lightning&logoColor=F55036" />
+  <img src="https://img.shields.io/badge/Gemini%20Vision-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/pgvector-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+</div>
+
+<br/>
+
+## 🚀 Flagship Builds
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 👑 [PRTECH.AI](https://prtech.netlify.app/)
+My own agency — premium web design, dev & AI Agent solutions. Founded solo, March 2026.
+<br/><sub>`Custom Logic` `B2B` `n8n`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 [AI Business Research Agent](https://github.com/PrakashWebDevX/AI-Business-Research-Agent-Backend)
+Autonomous agent routing between SQL database and live web search.
+<br/><sub>`Python` `LangChain` `RAG`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📚 [URL-to-VectorDB RAG](https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline)
+Full RAG pipeline — scrape, chunk, embed, cosine-search via pgvector.
+<br/><sub>`Groq/Llama 3.3` `pgvector`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🌌 [RP Vision AI](https://rp-vision-ai.vercel.app)
+Flagship Gen-AI suite: text-to-image, background removal, upscaling.
+<br/><sub>`React` `REST APIs` `Vercel`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ✍️ [CaptionAI](https://ai-caption-generator-tawny-nu.vercel.app)
+Upload an image → get platform-optimized viral captions, powered by Groq.
+<br/><sub>`Groq` `Vision`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎬 [ReelForgeAI](https://ai-reel-generator-navy.vercel.app)
+Generates hooks, scripts, scene breakdowns & hashtags for viral reels.
+<br/><sub>`LLM` `Content Gen`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎨 [BrandForgeAI](https://logo-ai-generator-two.vercel.app)
+Full brand identities — logos, slogans, palettes, typography in one click.
+<br/><sub>`LLM` `Branding`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧩 [LeetAI Agent](https://leetcode-automation-dashboard.vercel.app)
+Reads, solves, debugs & submits LeetCode problems via local Ollama models.
+<br/><sub>`Ollama` `Agentic`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📈 [RP Vision SEO](https://rpvisionai.netlify.app)
+Analyze, optimize, and scale website search rankings.
+<br/><sub>`React` `SEO Engine`</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Live Metrics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=PrakashWebDevX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&ring_color=00FFCC" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrakashWebDevX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=c9d1d9" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashWebDevX&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true&area_color=00FFCC" alt="Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashWebDevX&theme=dark&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=00FFCC&sideNums=ffffff&dates=8b949e" alt="Streak Stats" width="80%" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00FFCC" width="100%"/>
+
+<div align="center">
+
+## 🤝 Let's Build Something Intelligent
+
+<a href="https://github.com/PrakashWebDevX?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" /></a>
+<a href="https://www.linkedin.com/in/prakashrue"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
+<a href="https://prtech.netlify.app/"><img src="https://img.shields.io/badge/HIRE-PRTECH.AI-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFCC" /></a>
+
+<br/><br/>
+
+<i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrakashWebDevX/PrakashWebDevX/output/github-contribution-grid-snake-dark.svg" />
@@ -98,4 +207,6 @@ I design and ship agentic systems that don't just generate text — they **decid
   </picture>
 </div>
 
-<!-- Note: To make the "Snake Game" contribution graph animation work, you need to set up a GitHub action. Search for "snk github profile action" to add it! -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,50:302B63,100:0F0C29&height=150&section=footer" />
+
+<!-- Snake Game contribution animation kept unchanged — already wired via GitHub Action, see: search "snk github profile action" -->
