@@ -21,6 +21,21 @@
 
 ---
 
+## 👨‍💻 AI Identity Panel
+
+<table>
+<tr>
+<td width="40%">
+<img src="./avatar.svg" width="330"/>
+</td>
+<td width="60%">
+<img src="./sysinfo.svg" width="500"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Professional Snapshot
 
 > I engineer intelligent AI systems, premium web interfaces, and autonomous agents under **PRTECH.AI**.
@@ -55,22 +70,6 @@ $ boot PRTECH.AI
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,tailwind,supabase,postgres,docker,redis,aws,firebase,git,github,githubactions,linux,vscode,figma&perline=10"/>
 </p>
 
----
-
-## 👨‍💻 AI Identity Panel
-
-<table>
-<tr>
-<td width="40%">
-<img src="./avatar.svg" width="330"/>
-</td>
-<td width="60%">
-<img src="./sysinfo.svg" width="500"/>
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 GitHub Analytics
 
