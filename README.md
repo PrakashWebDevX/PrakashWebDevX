@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Engineering%20Intelligent%20Agents&fontSize=34&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&color=0:00F0C0,50:09111F,100:7C5CFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Agentic%20AI%20Developer&fontSize=34&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&color=0:00F0C0,50:09111F,100:7C5CFF"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F0C0&center=true&vCenter=true&width=900&lines=LLM+%7C+RAG+%7C+LangGraph+%7C+Multi-Agent+AI;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;OpenAI+%7C+Gemini+%7C+Docker+%7C+AWS;Building+Future-Ready+AI+Products"/>
 
