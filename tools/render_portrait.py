@@ -25,7 +25,7 @@ COLS = 70
 CHAR_W = 7.2
 CHAR_H = 13
 FONT_SIZE = 13
-ACCENT = "#4dabf7"
+ACCENT = "#00FFCC"
 BG = "#0d1117"
 ROW_STAGGER_MS = 40  # gap between each row's reveal start
 

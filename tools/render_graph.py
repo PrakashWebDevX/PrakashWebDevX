@@ -18,8 +18,8 @@ ASSETS = ROOT / "assets"
 IN_JSON = ASSETS / "contributions.json"
 OUT_SVG = ROOT / "graph.svg"
 
-# index 0 = no activity ... index 4 = top activity tier
-LEVELS = ["#1a1a2e", "#16537e", "#1c7ed6", "#4dabf7", "#a5d8ff"]
+# index 0 = no activity ... index 4 = top activity tier (neon-cyan terminal theme)
+LEVELS = ["#0f2b28", "#0d5c50", "#00a389", "#00e6b8", "#00ffcc"]
 
 CELL = 11
 GAP = 3
@@ -122,7 +122,7 @@ def render_svg(weeks, stats, username, static=False) -> str:
         f'longest streak {stats.get("longest_streak", 0)}d · '
         f'busiest day {stats.get("busiest_day", "—")}'
     )
-    parts.append(f'<text x="{PAD}" y="{stats_y}" font-size="11" fill="#4dabf7">{stats_line}</text>')
+    parts.append(f'<text x="{PAD}" y="{stats_y}" font-size="11" fill="#00FFCC">{stats_line}</text>')
 
     parts.append("</svg>")
     return "\n".join(parts)

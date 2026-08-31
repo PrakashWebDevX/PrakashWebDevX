@@ -21,8 +21,8 @@ OUT_SVG = ROOT / "sysinfo.svg"
 ROWS = [
     ("user", "Prakash (PrakashWebDevX)"),
     ("role", "AI Agent Developer"),
-    ("focus", "LLM apps · AI agents · automation"),
-    ("stack", "Python · LangChain · React · Node.js"),
+    ("focus", "LLM apps, AI agents, Gen-AI web platforms"),
+    ("stack", "Python, LangChain, React, Next.js, Node.js"),
     ("now", "Interning at Webnox Technologies"),
     ("project", "AI Business Research Agent (RAG)"),
     ("site", "prtech.netlify.app"),
@@ -34,7 +34,7 @@ HEADER_H = 40
 ROW_H = 34
 PAD_X = 20
 FONT_SIZE = 14
-LABEL_COLOR = "#4dabf7"
+LABEL_COLOR = "#00FFCC"
 VALUE_COLOR = "#e6edf3"
 BG = "#0d1117"
 HEADER_BG = "#161b22"
