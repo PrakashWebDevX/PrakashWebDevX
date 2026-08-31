@@ -1,7 +1,7 @@
 
 # <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=52&duration=3000&pause=1000&color=00F0C0&center=true&vCenter=true&width=900&height=120&lines=Prakash+WebDevX;AI+Software+Developer;Engineering+Intelligent+Agents;Building+PRTECH.AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=52&duration=3000&pause=1000&color=00F0C0&center=true&vCenter=true&width=900&height=120&lines=Prakash+DevX;AI+Software+Developer;AI+Agent;Building+PRTECH.AI"/>
 
 <p align="center">
   <a href="https://github.com/PrakashWebDevX">
