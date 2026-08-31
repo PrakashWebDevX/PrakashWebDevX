@@ -47,7 +47,7 @@
   </g>
 
   <g clip-path="url(#frameClip)">
-    <image href="https://github.com/PrakashWebDevX.png" x="20" y="20" width="380" height="380"
+    <image href="https://raw.githubusercontent.com/PrakashWebDevX/PrakashWebDevX/main/assets/photo.jpg" x="20" y="20" width="380" height="380"
            preserveAspectRatio="xMidYMid slice" filter="url(#duotone)"/>
     <rect x="20" y="20" width="380" height="380" fill="#0D1117" opacity="0.25"/>
     <rect x="20" y="20" width="380" height="380" fill="url(#scanlines)"/>
