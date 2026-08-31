@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/api?type=waving&color=0e75b6&height=200&section=header&text=Prakash%20WebDevX&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com/api?type=waving&color=00f0c0&height=200&section=header&text=Prakash%20WebDevX&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&background=0A0E1C00" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PrakashWebDevX&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)](https://github.com/PrakashWebDevX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakashrue)
+[![Profile Views](https://komarev.com/ghpvc/?username=PrakashWebDevX&label=Profile%20Views&color=00f0c0&style=for-the-badge&logo=github)](https://github.com/PrakashWebDevX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c5cff?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakashrue)
 
 ### 💼 Professional Snapshot
 
@@ -19,21 +19,21 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
 
 <br>
 
-<h3><code>$ cat contributions.log</code></h3>
-<img src="./graph.svg" width="820" />
-
-<br><br>
-
 <h3><code>$ whoami --verbose</code></h3>
 
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg" width="360" /></td>
+    <td valign="top"><img src="./avatar.svg" width="360" /></td>
     <td valign="top"><img src="./sysinfo.svg" width="540" /></td>
   </tr>
 </table>
 
 <br>
+
+<h3><code>$ snake --eat contributions.log</code></h3>
+<img src="./snake.svg" width="820" />
+
+<br><br>
 
 <h3><code>$ ls projects/ --pinned</code></h3>
 
@@ -51,21 +51,38 @@ I am a highly motivated developer merging the worlds of **Artificial Intelligenc
   How this works:
   - GitHub strips <script> tags and most inline CSS from markdown, but
     an <img> pointing at a local .svg is just rendered as an image —
-    and that image is free to animate itself via SMIL / embedded <style>.
-  - portrait.svg / sysinfo.svg / graph.svg are generated locally by the
-    scripts in tools/, then committed as flat files — no external
-    stats-widget services, tokens, or client-side JS involved.
-  - Only graph.svg needs to change day to day, so the GitHub Actions
+    and that image is free to animate itself via SMIL, because from
+    GitHub's point of view it's just a static image file that happens
+    to move.
+
+  - avatar.svg: the uploaded avatar art embedded directly (no photo
+    conversion), with a glowing ring that draws itself on, a scan-line
+    sweep that reveals the portrait, HUD corner brackets, and a soft
+    looping ambient scan afterward. tools/render_avatar.py
+
+  - sysinfo.svg: a terminal "whoami" panel that types itself in, row
+    by row. tools/render_panel.py
+
+  - snake.svg: the real contribution grid, with a snake that crawls
+    the whole year in a serpentine path and "eats" each active square
+    exactly as it passes over it. The snake moves along a single SVG
+    path via <animateMotion> (constant speed by arc length), and each
+    square's fade-out time is computed from its exact position along
+    that same path — so the eat is always in sync, no JS involved.
+    tools/render_snake.py
+
+  - Only snake.svg needs to change day to day, so the GitHub Actions
     workflow (.github/workflows/refresh-graph.yml) re-pulls contribution
     data and re-renders just that file once a day.
-  - Theme: neon-cyan (#00FFCC) on GitHub-dark (#0D1117), matching the
-    existing activity-graph/streak badge colors this replaces.
 
-  To rebuild after swapping in a new photo:
+  - Palette sampled directly from the avatar: navy #0a0e1c background,
+    mint-teal #00f0c0 primary accent, indigo #7c5cff secondary accent.
+
+  To rebuild after swapping in a new avatar:
       python -m venv .venv && source .venv/bin/activate
       pip install -r tools/requirements-art.txt
-      python tools/clean_photo.py my-photo.jpg
-      python tools/render_portrait.py
+      # replace assets/avatar-src.png, then:
+      python tools/render_avatar.py
 
   To rebuild the info panel after editing tools/render_panel.py:
       python tools/render_panel.py
